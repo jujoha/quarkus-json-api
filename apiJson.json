@@ -1,0 +1,17 @@
+[
+  {
+    "kind":"weißbier",
+    "price":2.00,
+    "vat":19
+  },
+  {
+    "kind":"helles",
+    "price":2.60,
+    "vat":8
+  },
+  {
+    "kind":"starkbier",
+    "price":2.30,
+    "vat":8
+  }
+]
